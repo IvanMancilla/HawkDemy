@@ -1,0 +1,25 @@
+.showMobile{
+  display: none;
+}
+.hideMobile{
+
+}
+@media(max-width: 700px){
+
+.showMobile{
+  display: block;
+}
+.hideMobile{
+  display: none;
+}
+.navMobile{
+  background-color: #ddd;
+  filter: opacity(0.8);
+  color: black;
+  font-family: 'Montserrat', sans-serif;
+}
+.itemNavMob{
+  color: black;
+  filter: contrast(200%);
+  font-f
+}
